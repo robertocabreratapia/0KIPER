@@ -8,7 +8,6 @@ urlcolor: blue
 fecha: 06-04-2026
 estado: ok
 ---
-
 ## Idea
 En democracias presidenciales con distritos uninominales, los miembros del parlamento cumplen cuatro funciones principales: legislar, controlar al Ejecutivo, representar a su circunscripción y prestar servicio al electorado. En contextos donde el clientelismo es relevante, se añade una quinta función: la provisión de bienes privados a los electores. Estas funciones pueden analizarse según el tipo de bienes que implican: públicos, colectivos, de club y privados.
 ## Comentarios
