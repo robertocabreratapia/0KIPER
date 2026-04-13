@@ -1,0 +1,6 @@
+
+
+
+
+## Notas relacionadas
+[[QCA definición]]
