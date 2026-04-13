@@ -12,7 +12,7 @@ status: comprobar página de cita
 La QCA formaliza la lógica de la investigación comparativa orientada a casos y constituye un conjunto de estrategias y técnicas que buscan tender puentes y, a la vez, ir más allá de la división entre investigación cualitativa e investigación cuantitativa.
 
 ## Comentarios
-Definición general del enfoque en la introducción de 2014.
+Definición general del enfoque en la lo introducción de 2014.
 
 ## Etiquetas (#textoplano)
 #QCA 

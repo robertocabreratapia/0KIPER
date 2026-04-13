@@ -10,7 +10,7 @@ estado: revisar conexiones (notas y etiquetas)
 ---
 
 ## Idea
-en QCA, un enfoque orientado a explicaciones sustantivamente interpretables prioriza soluciones cuya plausibilidad pueda sostenerse a partir del conocimiento de los casos, del contexto y de los conceptos utilizados.
+En QCA, un enfoque orientado a explicaciones sustantivamente interpretables prioriza soluciones cuya plausibilidad pueda sostenerse a partir del conocimiento de los casos, del contexto y de los conceptos utilizados.
 
 ## Comentarios
 este enfoque acepta que una solución no vale solo por su economía lógica, sino por la medida en que puede interpretarse de forma convincente como explicación del resultado en el universo analizado.

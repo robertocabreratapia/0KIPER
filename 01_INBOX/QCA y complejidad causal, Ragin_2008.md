@@ -9,7 +9,7 @@ fecha: 12-04-2026
 status: comprobar página de cita
 ---
 ## Idea
-La QCA ofrece un enfoque set-teórico para el análisis de la complejidad causal, considerando combinaciones lógicamente posibles de condiciones y el papel de los casos contrafácticos.
+La QCA ofrece un enfoque basado en la teoría de conjuntos para el análisis de la complejidad causal, considerando combinaciones lógicamente posibles de condiciones y el papel de los casos contrafácticos.
 
 ## Comentarios
 Definición centrada en complejidad causal y diversidad limitada.
