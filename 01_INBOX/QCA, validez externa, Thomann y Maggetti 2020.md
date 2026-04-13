@@ -8,7 +8,6 @@ urlcolor: blue
 fecha: 12-04-2026
 estado: revisar conexiones (notas y etiquetas)
 ---
-
 ## Idea
 La validez externa en QCA depende de aclarar hasta dónde pueden generalizarse las inferencias más allá de los casos analizados y de especificar un alcance empírico congruente con la selección de casos.
 

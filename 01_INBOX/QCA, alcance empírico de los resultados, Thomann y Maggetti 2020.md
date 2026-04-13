@@ -8,7 +8,6 @@ urlcolor: blue
 fecha: 12-04-2026
 estado: revisar conexiones (notas y etiquetas)
 ---
-
 ## Idea
 En QCA, el alcance empírico de los resultados no se deriva automáticamente del tamaño de N, sino de la relación defendible entre los casos observados, la selección de casos y la pretensión de inferencia.
 

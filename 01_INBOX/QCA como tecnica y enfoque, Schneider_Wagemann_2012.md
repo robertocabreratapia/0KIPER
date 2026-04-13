@@ -8,7 +8,6 @@ urlcolor: blue
 fecha: 12-04-2026
 status: comprobar página de cita
 ---
-
 ## Idea
 La QCA no es solo una técnica de análisis de datos, sino también un enfoque de investigación. Su uso exige articular el momento analítico con decisiones previas y posteriores sobre casos, conceptos y datos.
 

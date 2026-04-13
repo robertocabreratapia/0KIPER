@@ -8,7 +8,6 @@ urlcolor: blue
 fecha: "12-04-2026"
 estado: "revisar conexiones (notas y etiquetas)"
 ---
-
 ## Idea
 En una relación de necesidad, la inclusión muestra qué proporción del conjunto Y está incluida en el conjunto X.
 
